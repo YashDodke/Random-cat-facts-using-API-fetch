@@ -1,0 +1,41 @@
+.main{
+    background-image: url("https://i.pinimg.com/564x/00/c8/73/00c873e7b60fdefc66c9b2d76570c388.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 28rem;
+    width: 28rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    margin: auto;
+    margin-top: 5rem;
+
+    flex-wrap: wrap;
+    padding: 2rem;
+    font-family: "Anta", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  
+    font-style: normal;
+    color:white;
+    -webkit-text-stroke-width: 0.8px;
+    -webkit-text-stroke-color: #000;
+}
+button{
+    margin-top: 1.5rem;
+    font-size: 2.2rem;
+    border-radius: 0.7rem;
+    border: none;
+    padding: 1rem;
+    color: salmon;
+
+}
+
+p{
+    font-size: 2rem;
+
+}
